@@ -1,4 +1,17 @@
 <div align="center">
+  <h3>📫 Contact & Channels</h3>
+  
+  <a href="mailto:본인이메일@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://본인블로그주소.com">
+    <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=Ghost&logoColor=white" alt="Blog"/>
+  </a>
+  
+  </div>
+
+<div align="center">
   <h2>💻 Tech Stack</h2>
   
   <h3>🎮 Game Engines</h3>
