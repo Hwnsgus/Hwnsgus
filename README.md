@@ -1,15 +1,27 @@
 <div align="center">
+
+  <h1>👾 Hwnsgus Game Developer</h1>
+
+  <h3>🎮 Game Client • Game Engine</h3>
+
+  <br>
+
+  <hr>
+
+<div align="center">
   <h3>📫 Contact & Channels</h3>
   
-  <a href="mailto:본인이메일@gmail.com">
+  <a href="mailto:h01061762@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="https://본인블로그주소.com">
+  <a href="https://blog.naver.com/so_good-">
     <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=Ghost&logoColor=white" alt="Blog"/>
   </a>
   
   </div>
+
+  <hr>
 
 <div align="center">
   <h2>💻 Tech Stack</h2>
