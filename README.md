@@ -1,33 +1,30 @@
 <div align="center">
 
-  <h1>👾 Hwnsgus </h1>
-  <h2>Game Developer</h2>
+  <br>
+  <h3>👾 Hwnsgus <br> Game Developer</h3>
 
   <h3>🛠️ Game Client • Game Engine</h3>
 
   <br>
 
-  <br><br>
+  <hr>
 
+  <br>
 
-<div align="center">
   <h3>📫 Contact & Channels</h3>
-  
   <a href="mailto:h01061762@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
   <a href="https://blog.naver.com/so_good-">
     <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=Ghost&logoColor=white" alt="Blog"/>
   </a>
   
-  </div>
+  <br><br><br>
 
-  <br><br>
-
-<div align="center">
   <h2>💻 Tech Stack</h2>
   
+  <br>
+
   <h3>🎮 Game Engines</h3>
   <img src="https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
@@ -55,4 +52,5 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
 </div>
