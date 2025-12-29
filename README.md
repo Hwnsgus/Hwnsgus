@@ -1,12 +1,14 @@
 <div align="center">
 
-  <h1>👾 Hwnsgus Game Developer</h1>
+  <h1>👾 Hwnsgus </h1>
+  <h2>Game Developer</h2>
 
-  <h3>🎮 Game Client • Game Engine</h3>
+  <h3>🛠️ Game Client • Game Engine</h3>
 
   <br>
 
-  <hr>
+  <br><br>
+
 
 <div align="center">
   <h3>📫 Contact & Channels</h3>
@@ -21,7 +23,7 @@
   
   </div>
 
-  <hr>
+  <br><br>
 
 <div align="center">
   <h2>💻 Tech Stack</h2>
