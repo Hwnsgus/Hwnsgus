@@ -5,12 +5,6 @@
 
   <h3>🛠️ Game Client • Game Engine</h3>
 
-  <br>
-
-  <hr>
-
-  <br>
-
   <h3>📫 Contact & Channels</h3>
   <a href="mailto:h01061762@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -18,6 +12,12 @@
   <a href="https://blog.naver.com/so_good-">
     <img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=Ghost&logoColor=white" alt="Blog"/>
   </a>
+
+  <br>
+
+  <hr>
+
+  <br>
   
   <br><br><br>
 
